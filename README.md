@@ -19,9 +19,10 @@
 #### 4.使用
 
 * npm i
-
 * 前端：npm run serve
 * 后端：node app
+* 将sql文件导入到mysql数据库中，并启动mysql服务
+* 打开 localhost:8080
 
 
 #### 5.其他内容继续更新。。。。。。。
