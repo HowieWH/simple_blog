@@ -1,0 +1,23 @@
+{
+  "name": "myblog_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "md5": "^2.2.1",
+    "mysql": "^2.18.1",
+    "node-mysql-promise": "0.0.7",
+    "promise": "^8.1.0"
+  }
+}
